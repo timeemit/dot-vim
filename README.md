@@ -25,3 +25,10 @@ Just run the `update.sh` script in this directory.
 ```
 ./update.sh
 ```
+
+## Removing
+
+```
+./remove.sh module-name
+```
+
