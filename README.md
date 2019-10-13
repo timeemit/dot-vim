@@ -10,6 +10,14 @@ git submodule update --recursive
 git submodule foreach git checkout master
 ```
 
+## Adding
+
+Run
+
+```
+./add.sh https://url-to-repository.git
+```
+
 ## Update
 
 Just run the `update.sh` script in this directory.
