@@ -10,6 +10,12 @@ git submodule update --recursive
 git submodule foreach git checkout master
 ```
 
+Verify that the following command has empty output:
+
+```
+find bundle -type d -empty
+```
+
 ## Adding
 
 Run
