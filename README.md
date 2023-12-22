@@ -16,6 +16,14 @@ Verify that the following command has empty output:
 find bundle -type d -empty
 ```
 
+**Note for Node usage:**
+
+The daemon for ctagging node dependencies needs to be installed globally
+
+```
+npm install -g import-js
+```
+
 ## Adding
 
 Run
