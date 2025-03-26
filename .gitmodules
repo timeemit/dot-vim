@@ -103,6 +103,3 @@
 [submodule "bundle/vim-ai"]
 	path = bundle/vim-ai
 	url = https://github.com/madox2/vim-ai.git
-[submodule "bundle/vim-gutentags"]
-	path = bundle/vim-gutentags
-	url = https://github.com/ludovicchabant/vim-gutentags.git
